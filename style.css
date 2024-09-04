@@ -4,6 +4,9 @@ body {
   padding: 0;
   line-height: 1.6;
 }
+h1 {
+  color: tomato;
+}
 header {
   background: #333;
   color: #fff;
